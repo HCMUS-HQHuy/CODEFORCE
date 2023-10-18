@@ -47,3 +47,5 @@ int main() {
     }
     return 0;
 }
+
+// Mảng dp(i, j) xét i thằng đầu tiên và đã add vào j vị trí. Ta được công thức như trên.

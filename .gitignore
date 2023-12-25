@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.ans
+test.cpp
+*.inp
+*_brute.cpp
+

@@ -4,4 +4,4 @@
 test.cpp
 *.inp
 *_brute.cpp
-
+*.o

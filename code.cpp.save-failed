@@ -1,0 +1,21 @@
+#include<iostream>
+
+int* fuction() {
+
+}
+
+void Swap(int *c, int *d) {
+    int *tmp = c;
+
+    *c = *d;
+    *d = *tmp;
+}
+
+&a->c->tmp
+
+int main() {
+    int a = 10, b = 20;
+    Swap(&a, &b);
+    std::cout << a << " " << b << '\n';
+    return 0;
+}
